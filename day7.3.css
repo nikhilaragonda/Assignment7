@@ -1,0 +1,47 @@
+body{
+    position: relative;
+    display: flex;
+    justify-content: right;
+    text-align: right;
+    background: url('download12346.jfif');
+    background-size:cover ;
+    background-repeat: no-repeat;
+   background-position:center;
+   height: 100vh;
+
+}
+.login{
+    width: 450px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    margin: 100px;
+    color: white;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.index-box input{
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+
+    
+}
+.personal input{
+    height: 30px;
+    width: 100%;
+    margin: 8px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: -8px;
+
+}
+.btn{
+    height: 30px;
+    padding: 8px;
+    margin: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
